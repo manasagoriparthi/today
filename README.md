@@ -1,8 +1,6 @@
 # Travel estimator
 
-> JavaScript is a great language for writing and testing quick apps with user interaction.
->
-> Vue.js is an easy addition that enables two-way data binding (immediate updates are easy and no more 'document.getElementById')
+>This helps to calculate the volume of the material with the help of given length, width, and height(l*w*h)
 
 ## Links
 
